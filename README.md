@@ -6,11 +6,11 @@ The [AWS Certified Big Data Specialty](https://aws.amazon.com/certification/cert
 
 Domain | % of Examination
 -------|-------------------
-Domain 1 - [Incident Response](Domain_1_-_Incident_Response/README.md) | 17%
-Domain 2 - [Logging and Monitoring](Domain_2_-_Logging_Monitoring/README.md) | 17%
-Domain 3 - [Infrastructure Security](Domain_3_-_Infrastructure_Security/README.md) | 17%
-Domain 4 - [IAM](Domain_4_-_IAM/README.md) | 17%
-Domain 5 - [Data Protection](Domain_5_-_Data_Protection/README.md) | 12%
+Domain 1 - [Incident Response](Domain_1_-_Incident_Response/README.md) | 12%
+Domain 2 - [Logging and Monitoring](Domain_2_-_Logging_Monitoring/README.md) | 20%
+Domain 3 - [Infrastructure Security](Domain_3_-_Infrastructure_Security/README.md) | 26%
+Domain 4 - [IAM](Domain_4_-_IAM/README.md) | 20%
+Domain 5 - [Data Protection](Domain_5_-_Data_Protection/README.md) | 22%
 
 A set of ~ [10 sample exam questions can be downloaded here](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS%20Certified%20Security%20-%20Specialty_Sample%20Questions.pdf).
 
